@@ -1,3 +1,3 @@
 "# pdfReader" 
 
-i't just a simple pdf voice reader
+it's just a simple pdf voice reader
